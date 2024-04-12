@@ -1,0 +1,9 @@
+1º Resolução:
+ - Controle de entrada e saída de veículos através de uma cancela com sensor
+    Opcional: Placa em led que demonstra quantas vagas estão disponíveis para evitar tráfego desnecessário e causar problemas em frente a cancela.
+
+2º Resolução:
+ - Pintar a vaga e criar um mapa do estacionamento.
+
+3º Resolução:
+ - Software que controla a entrada de veículos, cor, placa e hora e verifica se foi realizado o pagamento. O usuário só poderá sair carro o pagamento tenha sido efetuado e o bilhete da cancela tenha sido validado.
