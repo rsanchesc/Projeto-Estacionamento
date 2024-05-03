@@ -1,3 +1,21 @@
+O estacionamento observado possui problemas em todos os seus setores, sendo eles:
+
+Recepção:
+-Controle totalmente manual
+-Recebimentos apenas em espécie (dinheiro vivo)
+-Clientes saindo sem pagar ou pagando diferente da permanência realizada
+
+Manobristas:
+-Identificação de vagas
+-Má condução dos veículos
+
+Clientes:
+-Reclamações sobre portas amassadas e riscos na pintura
+-Desrespeito às vagas demarcadas
+-Superlotação
+
+Considerando o case, apresentamos as seguintes resoluções:
+
 1º Resolução:
  - Controle de entrada e saída de veículos através de uma cancela com sensor
     Opcional: Placa em led que demonstra quantas vagas estão disponíveis para evitar tráfego desnecessário e causar problemas em frente a cancela.
